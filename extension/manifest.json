@@ -1,0 +1,22 @@
+{
+   "developer": { "name" :"Dzianis Rusak modded by Christoph142" },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "script.js" ],
+      "match_about_blank": true,
+      "matches": [ "<all_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Select link's text just like regular text (like in Opera 12 and below) - Select like a Boss ;)",
+   "icons": {
+      "128": "icons/O128.png",
+      "16": "icons/O16.png",
+      "48": "icons/O48.png"
+   },
+   "manifest_version": 2,
+   "name": "Select like a Boss",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "<all_urls>" ],
+   "version": "2015",
+   "minimum_chrome_version" : "37"
+}
