@@ -13,5 +13,7 @@ modded by Christoph142
 
 - no background page, no permanent resources
 - no delaying impact on site loading
+- no pollution of the window object
+- only handles what needs to be handled
 
 even more like a Boss ;P
