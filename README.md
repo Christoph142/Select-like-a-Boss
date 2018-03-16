@@ -17,3 +17,7 @@ modded by Christoph142
 - only handles what needs to be handled
 
 even more like a Boss ;P
+
+jdiaz
+---------
+Enabled Firefox Quantum Support

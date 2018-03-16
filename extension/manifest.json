@@ -1,5 +1,5 @@
 {
-   "developer": { "name" :"Dzianis Rusak modded by Christoph142" },
+   "developer": { "name" :"Dzianis Rusak modded by Christoph142, jdiaz" },
    "content_scripts": [ {
       "all_frames": true,
       "js": [ "script.js" ],
@@ -15,8 +15,7 @@
    },
    "manifest_version": 2,
    "name": "Select like a Boss",
-   "offline_enabled": true,
    "permissions": [ "tabs", "<all_urls>" ],
-   "version": "2015",
+   "version": "2018",
    "minimum_chrome_version" : "37"
 }
